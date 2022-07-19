@@ -1,6 +1,6 @@
 ---
 - name: demo
-  hosts: Switch
+  hosts: All
 
   tasks:
     - name: run show version on remote devices
