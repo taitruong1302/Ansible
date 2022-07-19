@@ -1,6 +1,6 @@
 ---
 - name: demo
-  hosts: all
+  hosts: router
 
   tasks:
     - name: run show version on remote devices
