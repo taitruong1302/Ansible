@@ -1,6 +1,6 @@
 ---
 - name: demo
-  hosts: router
+  hosts: SW1
 
   tasks:
     - name: run show version on remote devices
